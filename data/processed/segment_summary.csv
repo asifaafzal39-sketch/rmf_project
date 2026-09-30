@@ -1,0 +1,6 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Customer_%,Revenue_%
+Loyal,398,51.32,13.83,4109.85,1635720.04,26.6,55.9
+Churn Risk,335,292.79,6.38,1947.62,652452.31,22.3,22.3
+Potential,319,135.45,3.5,1063.9,339384.47,21.3,11.6
+Lost,265,263.97,2.3,695.12,184206.96,17.7,6.3
+New,182,66.76,2.04,620.87,112998.71,12.1,3.9
